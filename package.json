@@ -1,22 +1,22 @@
 {
-  "name": "chapi-demo-wallet",
+  "name": "dock-chapi-demo-wallet",
   "version": "0.0.0",
   "description": "Credential Handler API Demo Issuer",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalbazaar/chapi-demo-wallet.git"
+    "url": "https://github.com/docknetwork/chapi-demo-wallet"
   },
   "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "http://digitalbazaar.com"
+    "name": "Dock",
+    "email": "support@dock.io",
+    "url": "http://dock.io"
   },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/digitalbazaar/chapi-demo-wallet/issues"
+    "url": "https://github.com/docknetwork/chapi-demo-wallet/issues"
   },
-  "homepage": "https://github.com/digitalbazaar/chapi-demo-wallet",
+  "homepage": "https://github.com/docknetwork/chapi-demo-wallet",
   "dependencies": {
   },
   "devDependencies": {
