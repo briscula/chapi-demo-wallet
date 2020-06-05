@@ -4,5 +4,5 @@
 
 ## Demos
 1. [Demo Wallet](https://docknetwork.github.io/chapi-demo-wallet/)
-2. [Demo Issuer](https://chapi-demo-issuer.digitalbazaar.com/)
-3. [Demo Verifier](https://chapi-demo-verifier.digitalbazaar.com/)
+2. [Demo Issuer](https://docknetwork.github.io/chapi-demo-issuer/)
+3. [Demo Verifier](https://docknetwork.github.io/chapi-demo-verifier/)
