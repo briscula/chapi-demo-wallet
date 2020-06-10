@@ -1,7 +1,7 @@
 {
   "name": "dock-chapi-demo-wallet",
   "version": "0.0.0",
-  "description": "Credential Handler API Demo Issuer",
+  "description": "Credential Handler API Demo Wallet",
   "main": "index.js",
   "repository": {
     "type": "git",
