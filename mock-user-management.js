@@ -88,6 +88,7 @@ function clearWalletDisplay() {
 
 function addToWalletDisplay({text, vc, button}) {
   const li = document.createElement('li');
+  li.classList.add('collection-item');
 
   if(button) {
     const buttonNode = document.createElement('a');
